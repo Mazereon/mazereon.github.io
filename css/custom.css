@@ -134,7 +134,7 @@ a:hover,a:focus{ text-decoration: none}
 
 /* Top Nav */
 .top_nav {
-    background: #ffffff  none repeat scroll 0 0;
+    background: #ffcb0f  none repeat scroll 0 0;
     overflow: hidden;
     padding: 10px 0;
 }
@@ -321,6 +321,27 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     font-size:45px;
 }
 .why_us_item > h4 {
+    font-size: 15px;
+    margin: 60px 0 20px;
+}
+
+/* Why */
+#why {
+    background: #f2f7fa none repeat scroll 0 0;
+    padding-bottom: 50px;
+    line-height: 18px;
+}
+#why h2 {
+    margin: 70px 0 20px;
+}
+.why_item{ padding-top: 55px;}
+#why .fa{
+    border-radius: 100%;
+    box-shadow: 0 0 0 10px #ffcb0f, 0 0 0 20px #fadb64, 0 0 0 30px #f7e59c;
+    padding: 38px;
+    font-size:45px;
+}
+.why_item > h4 {
     font-size: 15px;
     margin: 60px 0 20px;
 }
