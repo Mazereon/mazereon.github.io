@@ -1,2 +1,3 @@
 # mazereon.github.io
-Website for TH 141
+
+click [here](mazereon.github.io) to view the website for TH 141
